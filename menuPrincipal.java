@@ -3,7 +3,7 @@ import beans.cliente;
 import java.util.Scanner;
 import logica.gestionCliente;
 
-public class menuPrincipal {
+public class menuPrincipal { //Aca esta la prueba de todo
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
